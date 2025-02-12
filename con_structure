@@ -1,6 +1,7 @@
 /welcome
 /people/the_team
 /people/who_is_who
+/people/working_agreement
 /people/hr_processes
 /onboading
 /onboading/laptop_setup
@@ -8,6 +9,21 @@
 /architecture/design_principls
 /archiecture/golden_rules
 /training
+/training/must_have_trainings_day_one (git,python,sql,datamodelling,scheuling,terraform)
 /training/internal_training_sessions(brownbag)
 /carrer_path
 /interaction_with_other_departments_RACI
+
+
+--DATA ENGINEERING INTRO--
+data engineering fundamentals mail.
+CDC replication concepts
+https://www.udemy.com/course/intro-to-data-engineering/?couponCode=ST9MT120225A
+https://www.youtube.com/watch?v=PHsC_t0j1dU&t=23s
+https://www.udemy.com/course/advanced-sql-for-data-engineering/?couponCode=ST9MT120225A
+https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/?couponCode=ST9MT120225A
+https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/?couponCode=ST9MT120225A
+
+
+--PLATFORM/CLOUD ENGINEERING INTRO--
+terraform
