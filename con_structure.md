@@ -1,8 +1,8 @@
-/welcome
-/people/the_team
-/people/who_is_who
-/people/working_agreement
-/people/hr_processes
+/welcome   \
+/people/the_team   \
+/people/who_is_who   \
+/people/working_agreement   \
+/people/hr_processes   \
 /onboading
 /onboading/laptop_setup
 /architecture/high_level
