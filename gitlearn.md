@@ -7,3 +7,5 @@ https://www.edx.org/learn/git/the-linux-foundation-git-for-distributed-software-
 https://www.udemy.com/course/git-interview-questions-preparation-course/?LSNPUBID=PPe1bPYHvDA&ranEAID=PPe1bPYHvDA&ranMID=39197&ranSiteID=PPe1bPYHvDA-KxVFd_IPIO3qIXoLJF8.bQ&utm_medium=udemyads&utm_source=aff-campaign
 
 https://skills.github.com/
+
+https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/
