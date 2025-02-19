@@ -1,3 +1,5 @@
 https://cmder.app/
 
 https://learning.edx.org/course/course-v1:LinuxFoundationX+LFD109x+2T2023/home
+
+https://www.edx.org/learn/git/the-linux-foundation-git-for-distributed-software-development
