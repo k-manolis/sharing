@@ -6,4 +6,5 @@
 6. Data modelling
 7. Desing Patterns
 8. Langchain
-9. git 
+9. Git
+10. kafka / flink
