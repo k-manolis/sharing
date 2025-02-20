@@ -5,3 +5,5 @@
 5. GCP / AWS / Azure
 6. Data modelling
 7. Desing Patterns
+8. Langchain
+9. git 
