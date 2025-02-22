@@ -3,9 +3,9 @@
 3. Terraform / pulumi (apr)
 4. Pyspark / Databrics (may)
 5. GCP / AWS / Azure (mar)
-6. Data modelling / Data mesh
+6. Data modelling / Data mesh (oct)
 7. - [ ] Desing Patterns (feb)
-8. Langchain
+8. Langchain (nov)
 9. - [x] Git (jan)
 10. kafka / flink (june)
 11. kubernetes (sep)
