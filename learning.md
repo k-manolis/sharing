@@ -4,7 +4,7 @@
 4. Pyspark / Databrics
 5. GCP / AWS / Azure
 6. Data modelling
-7. Desing Patterns
+7. - [ ] Desing Patterns
 8. Langchain
 9. - [x] Git
 10. kafka / flink
