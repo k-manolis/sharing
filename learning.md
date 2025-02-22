@@ -6,6 +6,6 @@
 6. Data modelling
 7. Desing Patterns
 8. Langchain
-- [x] Mars Git
+9. - [x] Git
 10. kafka / flink
 11. kubernetes
