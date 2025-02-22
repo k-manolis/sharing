@@ -9,3 +9,4 @@
 9. - [x] Git (jan)
 10. kafka / flink (june)
 11. kubernetes (sep)
+12. mlops / feature store
