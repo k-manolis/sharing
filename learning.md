@@ -10,4 +10,4 @@
 10. kafka / flink (june)
 11. kubernetes (sep)
 12. mlops / feature store
-13. o^n complexities
+13. o^n complexities / scala 
