@@ -1,6 +1,6 @@
 1. Airflow / Astronomer / Dagster (july)
 2. DBT / snowflake / bigquery (oct)
-3. Terraform / pulumi (apr)
+3. Terraform / pulumi / ansible (apr)
 4. Pyspark / Databrics (may)
 5. GCP / AWS / Azure (mar)
 6. Data modelling / Data mesh (oct)
