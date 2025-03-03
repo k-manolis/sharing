@@ -7,7 +7,7 @@
 7. - [ ] Desing Patterns (feb)
 8. Langchain (nov)
 9. - [x] Git (jan)
-10. kafka / flink (june)
+10. kafka / flink / confluent (june)
 11. kubernetes (sep)
 12. mlops / feature store
 13. o^n complexities / scala 
