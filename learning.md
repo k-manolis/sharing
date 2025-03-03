@@ -1,4 +1,4 @@
-1. Airflow / Astronomer / Dagster (july)
+1. Airflow / Astronomer / Dagster / Airbyte (july)
 2. DBT / snowflake / bigquery (oct)
 3. Terraform / pulumi / ansible (apr)
 4. Pyspark / Databrics (may)
