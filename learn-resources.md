@@ -1,4 +1,4 @@
-< git >
+### git
 
 https://cmder.app/
 
@@ -12,4 +12,4 @@ https://skills.github.com/
 
 https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/
 
-< python design patterns >
+### python design patterns
