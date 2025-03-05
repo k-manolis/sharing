@@ -19,3 +19,4 @@ https://drive.google.com/drive/folders/1oAxi1PNhLL0QTN56MlfdLYpmnp9t_3Xx
 
 https://www.udemy.com/course/python-design-patterns-z/?couponCode=ST10MT30325G1
 
+https://github.com/raelldottin/Practical-Python-Design-Paterns/blob/main/README.md
