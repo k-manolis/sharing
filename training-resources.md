@@ -13,3 +13,9 @@ https://skills.github.com/
 https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/
 
 ### python design patterns
+
+https://www.udemy.com/course/pythondesignpatterns/?couponCode=ST10MT30325G1
+https://drive.google.com/drive/folders/1oAxi1PNhLL0QTN56MlfdLYpmnp9t_3Xx
+
+https://www.udemy.com/course/python-design-patterns-z/?couponCode=ST10MT30325G1
+
