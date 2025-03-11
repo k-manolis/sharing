@@ -12,3 +12,4 @@
 12. mlops / feature store
 13. o^n complexities / scala 
 14. idiomatic python
+15. leetcode
