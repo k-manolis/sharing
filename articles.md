@@ -7,3 +7,11 @@ https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud
 https://cloud.google.com/bigquery/docs/resource-hierarchy
 
 https://newsletter.weskao.com/p/the-unspoken-skill-of-finesse
+
+https://glossary.airbyte.com/term/
+
+https://vervoe.com/wp-content/uploads/2021/11/metrics-to-measure-learning-agility.png
+
+https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603
+
+https://airbyte.com/blog/sql-data-modeling-with-dbt
