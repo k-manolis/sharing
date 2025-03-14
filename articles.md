@@ -5,3 +5,5 @@ https://cloud.google.com/architecture/framework
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-mesh-data-marketplace
 
 https://cloud.google.com/bigquery/docs/resource-hierarchy
+
+https://newsletter.weskao.com/p/the-unspoken-skill-of-finesse
