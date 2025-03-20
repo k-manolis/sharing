@@ -15,3 +15,5 @@ https://vervoe.com/wp-content/uploads/2021/11/metrics-to-measure-learning-agilit
 https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603
 
 https://airbyte.com/blog/sql-data-modeling-with-dbt
+
+https://newsletter.weskao.com/p/the-unspoken-skill-of-finesse
