@@ -38,3 +38,11 @@ Domain Ownership (by its respective domain team)
 Data as Product
 Self-serve data infra as platform
 federated computational governance (global standards )
+
+
+A platform is not just a
+collection of features that Dev teams happened to ask for at specific points in the
+past, but a holistic, well-crafted, consistent thing that takes into account the
+direction of technology change in the industry as a whole and the changing
+needs of the organization. A good platform will also serve to reduce the need for
+security and audit teams to spend time with the Dev team
