@@ -12,5 +12,5 @@
 12. mlops / feature store
 13. o^n complexities / scala 
 14. idiomatic python
-15. leetcode / sonarcube / unittest
+15. leetcode sql / sonarcube / unittest
 16. django / asyncio 
