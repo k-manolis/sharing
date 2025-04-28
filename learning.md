@@ -10,7 +10,7 @@
 10. kafka / flink / confluent (june)
 11. kubernetes / docker swarm (sep)
 12. mlops / feature store
-13. o^n complexities / scala 
+13. o^n complexities / scala / clean code
 14. idiomatic python
 15. leetcode sql / sonarcube / unittest
 16. django / asyncio 
