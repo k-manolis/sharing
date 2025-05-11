@@ -13,4 +13,4 @@
 13. o^n complexities / scala / clean code
 14. idiomatic python
 15. leetcode sql / sonarcube / unittest
-16. django / asyncio 
+16. fastapi / asyncio 
