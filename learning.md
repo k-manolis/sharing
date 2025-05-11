@@ -1,4 +1,4 @@
--FOCUS-
+⁹-FOCUS-
 1. Pyspark / Databrics (may)
 2. GCP / AWS / Azure
 3. leetcode sql 
@@ -8,6 +8,7 @@
 2. DBT / snowflake / bigquery (oct)
 3. Terraform / pulumi / ansible (apr)
 4. kafka / flink / confluent (june)
+5. powerbi/ tableau/ looker
 
 -CURIOSITY-
 1. - [ ] Desing Patterns (mar)
