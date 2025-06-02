@@ -23,3 +23,7 @@
 - [x] Git *(March)*     
 - [x] Data Modelling / Data Mesh *(April)*
 - [x] PySpark / Databricks *(May)*
+
+## 📌BIGGER SCOPE 
+- [ ] Cloud platform architect
+- [ ] Databricks data engineering
