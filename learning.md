@@ -3,11 +3,10 @@
 2. Kafka / Flink / Confluent *(June)*
 
 ## 🌟 NICE TO HAVE
-1. GCP / AWS / Azure  
-2. Airflow / Astronomer / Dagster / Airbyte *(July)*  
-3. DBT / Snowflake / BigQuery *(October)*  
-4. Terraform / Pulumi / Ansible *(April)*  
-5. Power BI / Tableau / Looker
+1. Airflow / Astronomer / Dagster / Airbyte *(July)*  
+2. DBT / Snowflake / BigQuery *(October)*  
+3. Terraform / Pulumi / Ansible *(April)*  
+4. Power BI / Tableau / Looker
 
 ## 🧠 CURIOSITY
 - [ ] Design Patterns *(March)*  
@@ -25,5 +24,5 @@
 - [x] PySpark / Databricks *(May)*
 
 ## 📌BIGGER SCOPE 
-- [ ] Cloud platform architect
+- [ ] Cloud platform architect /  GCP / AWS / Azure  
 - [ ] Databricks data engineering
