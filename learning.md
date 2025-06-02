@@ -20,6 +20,6 @@
 - [ ] FastAPI / AsyncIO
 
 ## ✅ DONE
-- [x] Data Modelling / Data Mesh *(October)*  
-- [x] Git  
+- [x] Git *(March)*     
+- [x] Data Modelling / Data Mesh *(April)*
 - [x] PySpark / Databricks *(May)*
