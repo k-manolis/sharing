@@ -7,6 +7,7 @@
 2. DBT / Snowflake / BigQuery *(October)*  
 3. Terraform / Pulumi / Ansible *(April)*  
 4. Power BI / Tableau / Looker
+5. Great expectations / databricks expectations
 
 ## 🧠 CURIOSITY
 - [ ] Design Patterns *(March)*  
