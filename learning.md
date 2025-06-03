@@ -11,7 +11,7 @@
 
 ## 🧠 CURIOSITY
 - [ ] Design Patterns *(March)*  
-- [ ] LangChain *(November)*  
+- [ ] LangChain/MCP *(November)*  
 - [ ] Kubernetes / Docker Swarm *(September)*  
 - [ ] MLOps / Feature Store  
 - [ ] O(n) Complexities / Scala / Clean Code  
