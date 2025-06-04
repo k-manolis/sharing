@@ -1,10 +1,11 @@
 ## 🔥 FOCUS NOW
 1. LeetCode SQL  
-2. Kafka / Flink / Confluent *(June)*
+2. Kafka *(June)*
+3. dbt
 
 ## 🌟 NICE TO HAVE
 1. Airflow / Astronomer / Dagster / Airbyte *(July)*  
-2. DBT / Snowflake / BigQuery *(October)*  
+2. BigQuery *(October)*  
 3. Terraform / Pulumi / Ansible *(April)*  
 4. Power BI / Tableau / Looker
 5. Great expectations / databricks expectations
@@ -18,6 +19,7 @@
 - [ ] Idiomatic Python  
 - [ ] SonarQube / UnitTest  
 - [ ] FastAPI / AsyncIO
+- [ ] flink / confluent 
 
 ## ✅ DONE
 - [x] Git *(March)*     
