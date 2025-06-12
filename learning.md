@@ -29,4 +29,4 @@
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure  
-- [ ] Databricks data engineering
+- [ ] Databricks data engineering - october-november ask for budget
