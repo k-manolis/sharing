@@ -12,7 +12,6 @@
 
 ## 🧠 CURIOSITY
 - [ ] Design Patterns *(March)*  
-- [ ]   
 - [ ] Kubernetes / Docker Swarm *(September)*  
 - [ ] MLOps / Feature Store  
 - [ ] O(n) Complexities / Scala / Clean Code  
