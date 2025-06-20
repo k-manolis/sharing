@@ -2,7 +2,6 @@
 1. LeetCode SQL  
 2. ai databricks accreditation
 3. databricks spark developer
-4. 
 
 ## 🌟 NICE TO HAVE
 1. BigQuery/ dbt *(October)*  
