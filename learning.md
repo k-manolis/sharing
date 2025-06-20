@@ -18,7 +18,8 @@
 - [ ] Idiomatic Python  
 - [ ] SonarQube / UnitTest  
 - [ ] FastAPI / AsyncIO
-- [ ] flink / confluent 
+- [ ] flink / confluent
+- [ ] airbyte
 
 ## ✅ DONE
 - [x] Git *(March)*     
