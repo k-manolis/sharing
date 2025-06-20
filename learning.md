@@ -2,7 +2,7 @@
 1. LeetCode SQL  
 2. ai databricks accreditation
 3. databricks spark developer
-4. Airflow / Astronomer / Dagster / Airbyte *(July)*  
+4. Airflow / Astronomer / Dagster / Airbyte / asset driven , the what not the how *(July)*  
 
 ## 🌟 NICE TO HAVE
 1. BigQuery/ dbt *(October)*  
