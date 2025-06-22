@@ -1,5 +1,5 @@
 ## 🔥 FOCUS NOW
-1. LeetCode SQL  
+1. LeetCode SQL / Python 
 2. ai databricks accreditation
 3. databricks spark developer
 
