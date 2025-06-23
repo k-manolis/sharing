@@ -9,6 +9,7 @@
 3. Power BI / Tableau / Looker
 4. Great expectations / databricks expectations
 5. clean code book
+6. datawarehouse zero to master/ course please 
 
 ## 🧠 CURIOSITY
 - [ ] Design Patterns *(March)*  
