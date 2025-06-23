@@ -8,12 +8,13 @@
 2. Terraform / Pulumi / Ansible *(April)*  
 3. Power BI / Tableau / Looker
 4. Great expectations / databricks expectations
+5. clean code book
 
 ## 🧠 CURIOSITY
 - [ ] Design Patterns *(March)*  
 - [ ] Kubernetes / Docker Swarm *(September)*  
 - [ ] MLOps / Feature Store  
-- [ ] O(n) Complexities / Scala / Clean Code  
+- [ ] O(n) Complexities
 - [ ] Idiomatic Python  
 - [ ] SonarQube / UnitTest  
 - [ ] FastAPI / AsyncIO
