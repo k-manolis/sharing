@@ -1,7 +1,6 @@
 ## 🔥 FOCUS NOW
 1. LeetCode SQL / Python 
 2. ai databricks accreditation
-3. 
  
 ## 🌟 NICE TO HAVE
 1. BigQuery/ dbt *(October)*  
