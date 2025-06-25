@@ -1,6 +1,6 @@
 ## 🔥 FOCUS NOW
 1. LeetCode SQL / Python 
-2. ai databricks accreditation
+2. 
  
 ## 🌟 NICE TO HAVE
 1. BigQuery/ dbt *(October)*  
@@ -29,6 +29,7 @@
 - [x] LangChain/MCP *(June)*
 - [x] Airflow / Astronomer / Dagster / asset driven , the what not the how *(June)*
 - [x] databricks spark developer *(June)*
+- [x] ai databricks accreditation *(June)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure  
