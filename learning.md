@@ -1,14 +1,13 @@
 ## 🔥 FOCUS NOW
 1. LeetCode SQL / Python 
-2. 
+2. Power BI / Tableau / Looker
  
 ## 🌟 NICE TO HAVE
 1. BigQuery/ dbt *(October)*  
 2. Terraform / Pulumi / Ansible *(April)*  
-3. Power BI / Tableau / Looker
-4. Great expectations / databricks expectations
-5. clean code book
-6. datawarehouse zero to master/ course please 
+3. Great expectations / databricks expectations
+4. clean code book
+5. datawarehouse zero to master/ course please 
 
 ## 🧠 CURIOSITY
 - [ ] Design Patterns *(March)*  
