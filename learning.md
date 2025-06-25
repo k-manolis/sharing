@@ -1,7 +1,7 @@
 ## 🔥 FOCUS NOW
 1. LeetCode SQL / Python 
 2. ai databricks accreditation
-3. databricks spark developer
+3. 
  
 ## 🌟 NICE TO HAVE
 1. BigQuery/ dbt *(October)*  
@@ -28,7 +28,8 @@
 - [x] PySpark / Databricks *(May)*
 - [x] Kafka *(June)*
 - [x] LangChain/MCP *(June)*
-- [x] Airflow / Astronomer / Dagster / asset driven , the what not the how *(June)*  
+- [x] Airflow / Astronomer / Dagster / asset driven , the what not the how *(June)*
+- [x] databricks spark developer *(June)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure  
