@@ -3,7 +3,7 @@
 2. Power BI / Tableau / Looker
  
 ## 🌟 NICE TO HAVE
-1. BigQuery/ dbt *(October)*  
+1. BigQuery *(October)*  
 2. Terraform / Pulumi / Ansible *(April)*  
 3. Great expectations / databricks expectations
 4. clean code book
@@ -31,5 +31,6 @@
 - [x] ai databricks accreditation *(June)*
 
 ## 📌BIGGER SCOPE 
-- [ ] Cloud platform architect /  GCP / AWS / Azure  
+- [ ] Cloud platform architect /  GCP / AWS / Azure
+- [ ] dbt
 - [ ] Databricks data engineering - october-november ask for budget
