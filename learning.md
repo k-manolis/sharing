@@ -5,7 +5,7 @@
 - [ ] Great expectations / databricks expectations
 - [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
-- [ ] Kubernetes / Docker Swarm *(September)*  
+- [ ] Kubernetes / Docker Swarm *(September)*
 - [ ] MLOps / Feature Store  
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
