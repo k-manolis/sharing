@@ -30,6 +30,7 @@
 - [x] databricks spark developer *(June)*
 - [x] ai databricks accreditation *(June)*
 - [x] Power BI / Tableau / Looker *(June)*
+- [x] SonarQube *(June)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
