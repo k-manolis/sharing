@@ -1,9 +1,8 @@
 ## 🔥 FOCUS NOW
-- [ ] LeetCode SQL / Python 
+
 - [ ] BigQuery *(October)*  
 - [ ] Terraform / Pulumi (April)*  
 - [ ] Great expectations / databricks expectations
-- [ ]  clean code book
 - [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
 - [ ] Kubernetes / Docker Swarm *(September)*  
@@ -31,3 +30,5 @@
 - [ ] Cloud platform architect /  GCP / AWS / Azure
 - [ ] dbt
 - [ ] Databricks data engineering - october-november ask for budget
+- [ ] LeetCode SQL / Python
+- [ ] clean code book
