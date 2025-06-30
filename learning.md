@@ -1,15 +1,10 @@
 ## 🔥 FOCUS NOW
-1. LeetCode SQL / Python 
-2. 
- 
-## 🌟 NICE TO HAVE
-1. BigQuery *(October)*  
-2. Terraform / Pulumi (April)*  
-3. Great expectations / databricks expectations
-4. clean code book
-5. datawarehouse zero to master/ course please 
-
-## 🧠 CURIOSITY
+- [ ] LeetCode SQL / Python 
+- [ ] BigQuery *(October)*  
+- [ ] Terraform / Pulumi (April)*  
+- [ ] Great expectations / databricks expectations
+- [ ]  clean code book
+- [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
 - [ ] Kubernetes / Docker Swarm *(September)*  
 - [ ] MLOps / Feature Store  
