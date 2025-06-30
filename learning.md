@@ -15,8 +15,7 @@
 - [ ] MLOps / Feature Store  
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
-- [ ] SonarQube / UnitTest  
-- [ ] FastAPI / AsyncIO
+- [ ] FastAPI / AsyncIO / UnitTest
 - [ ] flink / confluent
 - [ ] airbyte
 
