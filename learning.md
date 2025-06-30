@@ -4,7 +4,7 @@
  
 ## 🌟 NICE TO HAVE
 1. BigQuery *(October)*  
-2. Terraform / Pulumi / Ansible *(April)*  
+2. Terraform / Pulumi (April)*  
 3. Great expectations / databricks expectations
 4. clean code book
 5. datawarehouse zero to master/ course please 
@@ -30,6 +30,7 @@
 - [x] ai databricks accreditation *(June)*
 - [x] Power BI / Tableau / Looker *(June)*
 - [x] SonarQube *(June)*
+- [x] Ansible *(June)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
