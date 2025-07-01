@@ -1,7 +1,7 @@
 ## 🔥 FOCUS NOW
 
 - [ ] BigQuery *(October)*  
-- [ ] Terraform / Pulumi (April)*  
+- [ ]   
 - [ ] Great expectations / databricks expectations
 - [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
@@ -25,6 +25,7 @@
 - [x] Power BI / Tableau / Looker *(June)*
 - [x] SonarQube *(June)*
 - [x] Ansible *(June)*
+- [ ] Terraform / Pulumi *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
