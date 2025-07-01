@@ -1,7 +1,6 @@
 ## 🔥 FOCUS NOW
 
 - [ ] BigQuery *(October)*  
-- [ ] 
 - [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
 - [ ] MLOps / Feature Store  
