@@ -1,7 +1,6 @@
 ## 🔥 FOCUS NOW
 
 - [ ] BigQuery *(October)*  
-- [ ]   
 - [ ] Great expectations / databricks expectations
 - [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
