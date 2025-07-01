@@ -25,7 +25,7 @@
 - [x] Power BI / Tableau / Looker *(June)*
 - [x] SonarQube *(June)*
 - [x] Ansible *(June)*
-- [ ] Terraform / Pulumi *(July)*
+- [x] Terraform / Pulumi *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
