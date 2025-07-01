@@ -1,7 +1,7 @@
 ## 🔥 FOCUS NOW
 
 - [ ] BigQuery *(October)*  
-- [ ] Great expectations / databricks expectations
+- [ ] 
 - [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
 - [ ] MLOps / Feature Store  
@@ -25,6 +25,7 @@
 - [x] Ansible *(June)*
 - [x] Terraform / Pulumi *(July)*
 - [x] Docker Swarm *(July)*
+- [x] Great expectations / databricks expectations *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
