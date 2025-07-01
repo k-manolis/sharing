@@ -4,7 +4,6 @@
 - [ ] Great expectations / databricks expectations
 - [ ]  datawarehouse zero to master/ course please 
 - [ ] Design Patterns *(March)*  
-- [ ] Docker Swarm *(September)*
 - [ ] MLOps / Feature Store  
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
@@ -25,6 +24,7 @@
 - [x] SonarQube *(June)*
 - [x] Ansible *(June)*
 - [x] Terraform / Pulumi *(July)*
+- [x] Docker Swarm *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
