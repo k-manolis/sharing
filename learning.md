@@ -1,7 +1,6 @@
 ## 🔥 FOCUS NOW
 
 - [ ] BigQuery *(October)*  
-- [ ]  datawarehouse zero to master/ course please 
 - [ ] MLOps / Feature Store  
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
@@ -24,6 +23,7 @@
 - [x] Terraform / Pulumi *(July)*
 - [x] Docker Swarm *(July)*
 - [x] Great expectations / databricks expectations *(July)*
+- [ ] datawarehouse zero to master/ course please *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
