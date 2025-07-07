@@ -23,7 +23,7 @@
 - [x] Terraform / Pulumi *(July)*
 - [x] Docker Swarm *(July)*
 - [x] Great expectations / databricks expectations *(July)*
-- [ ] datawarehouse zero to master/ course please *(July)*
+- [x] datawarehouse zero to master/ course please *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
