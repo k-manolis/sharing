@@ -1,7 +1,7 @@
 ## 🔥 FOCUS NOW
 
 - [ ] BigQuery *(October)*  
-- [ ] MLOps / Feature Store  
+
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
 - [ ] FastAPI / AsyncIO / UnitTest
@@ -24,6 +24,7 @@
 - [x] Docker Swarm *(July)*
 - [x] Great expectations / databricks expectations *(July)*
 - [x] datawarehouse zero to master/ course please *(July)*
+- [x] MLOps / Feature Store  
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
