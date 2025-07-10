@@ -1,7 +1,6 @@
 ## 🔥 FOCUS NOW
 
 - [ ] BigQuery *(October)*  
-
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
 - [ ] FastAPI / AsyncIO / UnitTest
