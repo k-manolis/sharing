@@ -5,7 +5,6 @@
 - [ ] Idiomatic Python  
 - [ ] FastAPI / AsyncIO / UnitTest
 - [ ] flink / confluent
-- [ ] airbyte
 
 ## ✅ DONE
 - [x] Git *(March)*     
@@ -24,6 +23,7 @@
 - [x] Great expectations / databricks expectations *(July)*
 - [x] datawarehouse zero to master/ course please *(July)*
 - [x] MLOps / Feature Store  *(July)*
+- [ ] airbyte *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
