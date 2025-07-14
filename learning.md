@@ -4,7 +4,7 @@
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
 - [ ] FastAPI / AsyncIO / UnitTest
-- [ ] flink / confluent
+
 
 ## ✅ DONE
 - [x] Git *(March)*     
@@ -24,6 +24,7 @@
 - [x] datawarehouse zero to master/ course please *(July)*
 - [x] MLOps / Feature Store  *(July)*
 - [x] airbyte *(July)*
+- [x] flink / confluent *(July)*
 
 ## 📌BIGGER SCOPE 
 - [ ] Cloud platform architect /  GCP / AWS / Azure
