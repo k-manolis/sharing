@@ -1,10 +1,24 @@
 ## 🔥 FOCUS NOW
 
-- [ ] BigQuery *(October)*  
+## 📌ANALYTICS ENGINEERING
+- [ ] the dwh tooltik book - kimbal
+- [ ] SQL
+- [ ] Databricks data engineering - october-november ask for budget
+- [ ] dbt
+- [ ] BigQuery
+
+## 📌DATA ENGINEERING
+- [ ] Design Patterns
+- [ ] clean code book
+- [ ] python
 - [ ] O(n) Complexities
 - [ ] Idiomatic Python  
 - [ ] FastAPI / AsyncIO / UnitTest
 - [ ] ververica flink
+
+## 📌SOLUTION ARCHITECTURE
+- [ ] Kubernetes
+- [ ] Cloud platform architect /  GCP / AWS / Azure
 
 
 ## ✅ DONE
@@ -27,12 +41,5 @@
 - [x] airbyte *(July)*
 - [x] confluent *(July)*
 
-## 📌BIGGER SCOPE 
-- [ ] Cloud platform architect /  GCP / AWS / Azure
-- [ ] dbt
-- [ ] Databricks data engineering - october-november ask for budget
-- [ ] LeetCode SQL / Python
-- [ ] clean code book
-- [ ] Kubernetes
-- [ ] Design Patterns
-- [ ] the dwh tooltik book - kimbal
+
+
