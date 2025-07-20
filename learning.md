@@ -35,3 +35,4 @@
 - [ ] clean code book
 - [ ] Kubernetes
 - [ ] Design Patterns
+- [ ] the dwh tooltik book - kimbal
