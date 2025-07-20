@@ -14,7 +14,7 @@
 - [ ] FastAPI / AsyncIO / UnitTest
 - [ ] ververica flink
 
-## 📌SOLUTION ARCHITECTURE
+## 🏗️ DEVOPS
 - [ ] Kubernetes
 - [ ] Cloud platform architect /  GCP / AWS / Azure
 
