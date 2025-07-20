@@ -1,6 +1,4 @@
-## 🔥 FOCUS NOW
-
-## 📌ANALYTICS ENGINEERING
+## 📊 ANALYTICS ENGINEERING
 - [ ] the dwh tooltik book - kimbal
 - [ ] SQL
 - [ ] Databricks data engineering - october-november ask for budget
