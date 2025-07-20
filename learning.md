@@ -5,7 +5,7 @@
 - [ ] dbt
 - [ ] BigQuery
 
-## 📌DATA ENGINEERING
+## 🛠️ DATA ENGINEERING
 - [ ] Design Patterns
 - [ ] clean code book
 - [ ] python
