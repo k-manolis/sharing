@@ -2,36 +2,36 @@ Infrastructure
 ------------
 1. cloud
 1. installation
-configuration managment 
-infrastructure as code
-cicd 
-orchestration 
-cdc 
-golden gate
-debezium 
+1. configuration managment 
+1. infrastructure as code
+1. cicd 
+1. orchestration 
+1. cdc 
+1. golden gate
+1. debezium 
 
 Data engineering 
 ------------
-Data Movement 
-kafka 
-cdc 
-Python or java or scala
-storage 
-airbyte
+1. data Movement 
+1. kafka 
+1. cdc 
+1. python or java or scala
+1. storage 
+1. airbyte
 
 Analytics Engineering 
 ------------
-etl 
-datawarehouse
-sql
-dbt 
-airflow
-Tableau 
-power BI 
+1. etl 
+1. datawarehouse
+1. sql
+1. dbt 
+1. airflow
+1. tableau 
+1. power BI 
 
 DataScience and ML
 -----------
-clustering 
-classification
-recommendation system 
-outlier detection
+1. clustering 
+1. classification
+1. recommendation system 
+1. outlier detection
