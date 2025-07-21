@@ -1,7 +1,7 @@
 Infrastructure
 ------------
-cloud
-installation
+1. cloud
+1. installation
 configuration managment 
 infrastructure as code
 cicd 
