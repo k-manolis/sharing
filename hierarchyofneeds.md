@@ -8,7 +8,8 @@ Infrastructure
 1. orchestration 
 1. cdc 
 1. golden gate
-1. debezium 
+1. debezium
+1. tool selection 
 
 Data engineering 
 ------------
@@ -27,7 +28,10 @@ Analytics Engineering
 1. dbt 
 1. airflow
 1. tableau 
-1. power BI 
+1. power BI
+
+Data Governance and Observability
+-----------
 
 DataScience and ML
 -----------
