@@ -3,7 +3,6 @@
 - [ ] SQL
 - [ ] Databricks data engineering - october-november ask for budget
 - [ ] dbt
-- [ ] BigQuery
 
 ## 🛠️ DATA ENGINEERING
 - [ ] Design Patterns
@@ -38,6 +37,5 @@
 - [x] MLOps / Feature Store  *(July)*
 - [x] airbyte *(July)*
 - [x] confluent *(July)*
-
-
+- [x] BigQuery *(July)*
 
