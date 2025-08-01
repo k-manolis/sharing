@@ -46,3 +46,4 @@ _____________
 
 Product | Engineering | Business 
 Architecture | Managment | Delivery 
+Strategic | Tactical | Operational
