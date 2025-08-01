@@ -44,5 +44,5 @@ DataScience and ML
 
 _____________
 
-Product | Emgineering | Business 
+Product | Engineering | Business 
 Architecture | Managment
