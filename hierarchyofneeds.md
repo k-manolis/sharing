@@ -30,7 +30,7 @@ Analytics Engineering
 1. tableau 
 1. power BI
 
-Data Governance and Observability
+Data Governance/Quality and Observability
 -----------
 
 DataScience and ML
