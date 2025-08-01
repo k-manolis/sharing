@@ -39,3 +39,10 @@ DataScience and ML
 1. classification
 1. recommendation system 
 1. outlier detection
+
+
+
+_____________
+
+Product | Emgineering | Business 
+Architecture | Managment
