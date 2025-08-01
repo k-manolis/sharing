@@ -45,4 +45,4 @@ DataScience and ML
 _____________
 
 Product | Engineering | Business 
-Architecture | Managment
+Architecture | Managment | Delivery 
